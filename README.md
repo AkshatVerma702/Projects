@@ -1,3 +1,1 @@
-# git_test
-My first git repo!
-Hello Odin!
+Dont know what to do with this Repo!
